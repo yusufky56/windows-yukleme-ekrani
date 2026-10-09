@@ -30,3 +30,7 @@ Zamanlama, renk ve boyut ayarları dosyanın başındaki değişkenlerden deği�
 Program tam ekran açılır. Pencerede görmek için `setup()` içindeki `fullScreen();` satırını `size(800, 600);` ile değiştirin.
 
 Proje raporu: [`docs/proje-raporu.docx`](docs/proje-raporu.docx)
+
+## License
+
+[MIT](LICENSE). Windows and the Windows logo are trademarks of Microsoft Corporation. This is an unofficial fan recreation for learning purposes.
